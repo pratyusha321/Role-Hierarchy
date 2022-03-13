@@ -1,12 +1,12 @@
 # Role-Hierarchy
 
-Role Hierarchy app helps to creates and maintains roles and its hierarchy.
+Role Hierarchy app helps to create and maintains roles and its hierarchy.
 ![alt text](https://github.com/pratyusha321/Role-Hierarchy/blob/main/images/Flow.png)
 
   
  Whole program is created in Python and it's developed in pure python with no libraries.
 ##  Prerequisite to run Python Code:
-  1. Python 3.X version
+  1. Python 3.x version
   
  ## Run the Code
   Command to run the code is : 
@@ -15,7 +15,7 @@ Role Hierarchy app helps to creates and maintains roles and its hierarchy.
   
  ## Process Steps
   1. The program starts with creating a Root role i.e. CEO
-  2. And it navigate to multiple Operations to select:
+  2. And it navigates to multiple Operations to select:
   
                 1. Add Sub Role.  
                 2. Display Roles.  
@@ -27,7 +27,7 @@ Role Hierarchy app helps to creates and maintains roles and its hierarchy.
                 8. Number of users from top.
                 9. Height of role hierachy.
                 10. Common boss of users.
-  3. By selecting Operations "1. Add Sub Role", we can add the Sub Role and it's reporting to deatils.
+  3. By selecting Operations "1. Add Sub Role", we can add the Sub Role and it's reporting to details.
   
       For Example: 
   
@@ -38,13 +38,13 @@ Role Hierarchy app helps to creates and maintains roles and its hierarchy.
       For Example:
                   
                   CEO, COO, CTO, Sr Product Eng Manager, Sr Product Marketing Manager, Director of Technology.
-  5. The Next option is to delete the created roles by slecting operation "3. Delete Role."
+  5. The Next option is to delete the created roles by selecting operation "3. Delete Role."
   6. After creation of roles, the next operation is to create Users i.e. "4. Add User." After the User name, that user need to assign with the defined Role.
       For Example: 
     
                     Enter User Name : Kenny
                     Enter Role : Director of Technology
-  7. The Next operation is to Display the created User Name and that corresponding Role assiged.
+  7. The Next operation is to display the created User Name and that corresponding Role assigned.
       For Example:
                   
                     Tyson - CEO
@@ -66,7 +66,7 @@ Role Hierarchy app helps to creates and maintains roles and its hierarchy.
                   
                     Enter user name : Kenny
                     Number of users from top : 1
-  11. The next step is to show the Height of the role hierachy.
+  11. The next step is to show the Height of the role hierarchy.
       For Example:
   
                   height - 3
